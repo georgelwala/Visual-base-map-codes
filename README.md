@@ -1,2 +1,2 @@
-# Base visual
- For bounadary visualization
+# Base visual codes
+ For boundary visualization
